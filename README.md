@@ -1,15 +1,22 @@
 # BTK Machine Learning Course
-It's my notes about machine learning course by I take on BTK platform.
 
-Used Google Colaboratory (python notebook) for programming.
+These are my notes from the machine learning course I took on the BTK platform.
 
-Used data files noted in notebooks and they are in Data Files folder.
+I used Google Colaboratory (python notebook) for programming.
+
+Used data files are noted in notebooks and they are in the Data Files folder.
+
+#
 
 *First homework* is to predict whether tennis game will play or not.
 
 *Second homework* is to create 5 different model of regression for salary prediction.
 
 *Third homework* is to analyze iris dataset, compare results and visualize data.
+
+#
+
+**Notebook Files**:
 
 BTK_1 is about **data frames**.
 
