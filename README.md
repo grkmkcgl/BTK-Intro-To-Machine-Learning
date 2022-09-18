@@ -5,9 +5,11 @@ Used Google Colaboratory (python notebook) for programming.
 
 Used data files noted in notebooks and they are in Data Files folder.
 
-First homework is to predict whether tennis game will play or not.
+*First homework* is to predict whether tennis game will play or not.
 
-Second homework is to create 5 different model of regression for salary prediction.
+*Second homework* is to create 5 different model of regression for salary prediction.
+
+*Third homework* is to analyze iris dataset, compare results and visualize data.
 
 BTK_1 is about **data frames**.
 
