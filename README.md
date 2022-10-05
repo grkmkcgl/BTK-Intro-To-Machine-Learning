@@ -24,6 +24,6 @@ BTK_2 is about **simple, multiple and polynomial linear regression**.
 
 BTK_3 is about **support vector regression, decision trees, random forest and r2 value calculation**.
 
-BTK-4 is about **classification (Logistic Regression, KNN, SVC)**.
+BTK-4 is about **classification (Logistic Regression, KNN, SVC, Gaussian Naive Bayes)**.
 
 BTK-5 is about **clustering (K-means, Hierarchical Clustering, Association Rule Mining)**
