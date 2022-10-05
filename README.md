@@ -27,3 +27,7 @@ BTK_3 is about **support vector regression, decision trees, random forest and r2
 BTK-4 is about **classification (Logistic Regression, KNN, SVC, Gaussian Naive Bayes)**.
 
 BTK-5 is about **clustering (K-means, Hierarchical Clustering, Association Rule Mining)**
+
+BTK-6 is about **Reinforced Learning(upper confidence bound, thomson sampling)**
+
+BTK-7 is about **Natural Language Processing**
