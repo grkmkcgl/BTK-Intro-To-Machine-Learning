@@ -31,3 +31,5 @@ BTK-5 is about **clustering (K-means, Hierarchical Clustering, Association Rule 
 BTK-6 is about **Reinforced Learning(upper confidence bound, thomson sampling)**
 
 BTK-7 is about **Natural Language Processing**
+
+BTK-7 is about **Artificial Neural Networks, Dimension Reduction(PCA and LDA)**
