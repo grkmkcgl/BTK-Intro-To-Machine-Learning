@@ -1,6 +1,6 @@
 # BTK Machine Learning Course
 
-These are my notes from the machine learning course I took on the BTK platform.
+These are my notes from the machine learning course I took on the BTK platform presented by Sadi Evren Şeker.
 
 I used Google Colaboratory (python notebook) for programming.
 
