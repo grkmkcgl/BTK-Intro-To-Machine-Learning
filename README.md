@@ -32,4 +32,4 @@ BTK-6 is about **Reinforced Learning(upper confidence bound, thomson sampling)**
 
 BTK-7 is about **Natural Language Processing**
 
-BTK-7 is about **Artificial Neural Networks, Dimension Reduction(PCA and LDA)**
+BTK-8 is about **Artificial Neural Networks, Dimension Reduction(PCA and LDA)**
