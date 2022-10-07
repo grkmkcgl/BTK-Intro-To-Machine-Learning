@@ -16,20 +16,20 @@ Used data files are noted in notebooks and they are in the Data Files folder.
 
 #
 
-**Notebook Files**:
+**Notebook File Topics**:
 
-BTK_1 is about **data frames**.
+BTK_1: **data frames**.
 
-BTK_2 is about **simple, multiple and polynomial linear regression**.
+BTK_2: **simple, multiple and polynomial linear regression**.
 
-BTK_3 is about **support vector regression, decision trees, random forest and r2 value calculation**.
+BTK_3: **support vector regression, decision trees, random forest and r2 value calculation**.
 
-BTK-4 is about **classification (Logistic Regression, KNN, SVC, Gaussian Naive Bayes)**.
+BTK-4: **classification (Logistic Regression, KNN, SVC, Gaussian Naive Bayes)**.
 
-BTK-5 is about **clustering (K-means, Hierarchical Clustering, Association Rule Mining)**.
+BTK-5: **clustering (K-means, Hierarchical Clustering, Association Rule Mining(ARM, Eclat))**.
 
-BTK-6 is about **Reinforced Learning(upper confidence bound, thomson sampling)**.
+BTK-6: **Reinforced Learning(upper confidence bound, thomson sampling)**.
 
-BTK-7 is about **Natural Language Processing**.
+BTK-7: **Natural Language Processing**.
 
-BTK-8 is about **Artificial Neural Networks, Dimension Reduction (PCA and LDA), Model Evaluation (k-fold validation, grid search), XGBoost classifier**.
+BTK-8: **Artificial Neural Networks, Dimension Reduction (PCA and LDA), Model Evaluation (k-fold validation, grid search), XGBoost classifier**.
