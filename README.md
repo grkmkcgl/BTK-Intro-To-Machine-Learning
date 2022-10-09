@@ -33,3 +33,5 @@ BTK-6: **Reinforced Learning(upper confidence bound, thomson sampling)**.
 BTK-7: **Natural Language Processing**.
 
 BTK-8: **Artificial Neural Networks, Dimension Reduction (PCA and LDA), Model Evaluation (k-fold validation, grid search), XGBoost classifier**.
+
+BTK-9: **Saving model to reuse, CNN**
